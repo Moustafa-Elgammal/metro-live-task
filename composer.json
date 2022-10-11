@@ -1,0 +1,21 @@
+{
+    "name": "moustafa-elgammal/metro-live-task",
+    "autoload": {
+        "classmap": [
+            "src"
+        ],
+        "files": [
+            "src/Commands/count_by_price_range.php",
+            "src/Commands/count_by_vendor_id.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Moustafa Mohammed",
+            "email": "moustafa_algammal@yahoo.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
